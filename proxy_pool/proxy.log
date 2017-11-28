@@ -1,0 +1,6 @@
+2017-11-17 20:10:23 connectionpool.py [line: 212] DEBUG Starting new HTTP connection (1): www.goubanjia.com
+2017-11-17 20:10:23 connectionpool.py [line: 400] DEBUG http://www.goubanjia.com:80 "GET /free/anoy/%E9%80%8F%E6%98%8E/index1.shtml HTTP/1.1" 200 None
+2017-11-17 20:10:23 goubanjia.py [line: 44] DEBUG -----all_proxy_num-----15-----
+2017-11-17 21:15:54 connectionpool.py [line: 212] DEBUG Starting new HTTP connection (1): www.ip181.com
+2017-11-17 21:15:54 connectionpool.py [line: 400] DEBUG http://www.ip181.com:80 "GET / HTTP/1.1" 200 31070
+2017-11-17 21:15:54 ip181.py [line: 20] DEBUG -----all ip num-----100-----
